@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Cameron Walker
+    </div>
+    <div
+      className="mb-2 text-muted card-subtitle h6"
+    >
+      GitHub: CameronJWalker
+    </div>
+    <p
+      className="card-text"
+    >
+      I am 22 years old from a small town called Beaver, Utah. I moved to Las Vegas my freshman year of highschool because of my dads work. I finished my associates through College Of Southern Nevada and now hope to break into tech through the Coding Bootcamp at UNLV
+    </p>
+  </div>
+</div>
+`;
